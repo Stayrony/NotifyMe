@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="NotifyMe.App">
+    <Application.Resources>
+        
+        <!-- APP TEXT COLORS -->
+        <Color x:Key="tcolor_i1">#FA897F</Color> <!-- Congo pink      -->
+        <Color x:Key="tcolor_i2">#FFFFFF</Color> <!-- White      -->
+        <Color x:Key="tcolor_i3">#FCD5D3</Color> <!-- Coral Candy      -->
+        
+        
+        <!-- APP TEXT SIZES -->
+        <x:Double x:Key="tsize_i1">24</x:Double>
+        
+        <!-- APP BACKGROUND COLORS -->
+        <Color x:Key="cbg_i1" >#FA897F</Color> <!-- Congo pink      -->
+        <Color x:Key="cbg_i2">#FCD5D3</Color> <!-- Coral Candy      -->
+        
+    </Application.Resources>
+</Application>
